@@ -18,7 +18,7 @@ public class GameGroup extends Group {
      * Constructs a <code>GameGroup</code> object with default settings.
      */
     public GameGroup() {
-
+	super();
     } // GameGroup
 
     /**
